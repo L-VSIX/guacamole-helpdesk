@@ -19,8 +19,8 @@ Apache Guacamole permet un accès RDP/VNC/SSH directement depuis un navigateur, 
 
 ## Repos liés
 
-- `ad-structuration-annuaire` — authentification prévue
-- `glpi-support-helpdesk` — origine du scénario de ticket
+- [`ad-structuration-annuaire`](https://github.com/L-VSIX/ad-structuration-annuaire) — authentification prévue
+- [`glpi-support-helpdesk`](https://github.com/L-VSIX/glpi-support-helpdesk) — origine du scénario de ticket
 
 ## Auteur
 
